@@ -4,9 +4,7 @@ import java.text.SimpleDateFormat;
 import java.util.Calendar;
 
 public class MyFrame extends JFrame {
-
-
-    Calendar calendar;
+    
     SimpleDateFormat timeFormat;
     SimpleDateFormat dayFormat;
     SimpleDateFormat dateFormat;
